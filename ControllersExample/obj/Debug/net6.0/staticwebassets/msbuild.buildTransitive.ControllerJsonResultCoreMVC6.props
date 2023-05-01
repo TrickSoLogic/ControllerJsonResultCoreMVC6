@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ControllerJsonResultCoreMVC6.props" />
+</Project>

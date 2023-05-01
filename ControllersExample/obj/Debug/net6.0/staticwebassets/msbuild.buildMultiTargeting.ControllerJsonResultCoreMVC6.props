@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControllerJsonResultCoreMVC6.props" />
+</Project>
